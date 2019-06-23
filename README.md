@@ -1,0 +1,2 @@
+# MFC_VIDEO_PLAYER
+基于MFC和MCI的视频播放器
